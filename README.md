@@ -17,4 +17,5 @@ This repository contains my personal solutions to LeetCode programming problems.
 | # | Problem | Difficulty | Solution | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](./1-TwoSum/) | Used a hash map for O(n). |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Solution](./2-AddTwoNumbers/) | Linked list traversal. |
 | | | | | |
